@@ -6,4 +6,5 @@
      * Use `scikit-learn` package
      * 手动求导
      * 单Hidden Layer
+     * 鸢尾花数据集
   * [手写数字辨识之Softmax](https://www.baidu.com)
