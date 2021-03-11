@@ -7,6 +7,6 @@
      * 手动求导
      * 单Hidden Layer
      * 鸢尾花数据集
-  * [手写数字辨识之Softmax](https://www.baidu.com)
+  * [手写数字辨识之Softmax](https://github.com/Jackjun724/ml_roadmap/blob/main/Classification/Softmax.ipynb)
      * Use `PyTorch`
      * Mnist数据集
