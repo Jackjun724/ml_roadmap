@@ -9,4 +9,9 @@
      * 鸢尾花数据集
   * [手写数字辨识之Softmax](https://github.com/Jackjun724/ml_roadmap/blob/main/Classification/Softmax.ipynb)
      * Use `PyTorch`
-     * Mnist数据集
+     * Mnist dataset
+  * [手写数字辨识之CNN](https://www.baidu.com)
+     * Use `PyTorch`
+     * Convolutional Neural Network
+     * High Accurary
+     * Mnist dataset
