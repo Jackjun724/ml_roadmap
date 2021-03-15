@@ -15,5 +15,5 @@
      * Convolutional Neural Network
      * High Accurary
      * Mnist dataset
-* RNN
+* [RNN](https://github.com/Jackjun724/ml_roadmap/tree/main/RNN)
   * [LSTM](https://www.baidu.com)
