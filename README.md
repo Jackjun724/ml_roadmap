@@ -10,7 +10,7 @@
   * [手写数字辨识之Softmax](https://github.com/Jackjun724/ml_roadmap/blob/main/Classification/Softmax.ipynb)
      * Use `PyTorch`
      * Mnist dataset
-  * [手写数字辨识之CNN](https://www.baidu.com)
+  * [手写数字辨识之CNN](https://www.baidu.com)(更新中)
      * Use `PyTorch`
      * Convolutional Neural Network
      * High Accurary
